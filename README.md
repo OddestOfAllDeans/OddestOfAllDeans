@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @OddestOfAllDeans
-- 👀 I’m interested in learning how to code programming languages
-- 🌱 I’m currently working on an office project
-- 📫 How to reach me? well you don't have to because i barely have any knowledge on any programming languages
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: What bear is best? Black Bears
+- 👋 Hi, I’m @OddestOfAllDeans A.K.A. Dean Whitaker
+- 🌱 I’m currently working on an office project called ByteCare
+- 📚 Had a 9-month internship at PT.Lembimjar Neutron Yogyakarta as an IT Programmer in their Head Office branch
+- 📫 How to reach me? Here's my Instagram! https://www.instagram.com/deanopposites/
+- ⚡ Fun fact: What kind of bear is best? Black Bears
 
 <!---
 OddestOfAllDeans/OddestOfAllDeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
