@@ -2,6 +2,7 @@
 - 🌱 I’m currently working on an office project called ByteCare
 - 📚 Had a 9-month internship at PT.Lembimjar Neutron Yogyakarta as an IT Programmer in their Head Office branch
 - 📫 How to reach me? Here's my Instagram! https://www.instagram.com/deanopposites/
+- 🪪 Portfolio: https://my-portfolio-eight-mu-93.vercel.app/?#home
 - ⚡ Fun fact: What kind of bear is best? Black Bears
 
 <!---
